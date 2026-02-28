@@ -1,2 +1,8 @@
 # actividad-CRAII-UNIMINUTO
-Trabajo en DFD en grupo Santiago Melgarejo Y Gabriel Feria 
+
+##Integrantes
+
+-Santiago Melgarejo Silva - 001120039
+-Gabriel Esteban Feria - 1116684
+
+
