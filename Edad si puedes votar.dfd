@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+Edad
+1
+0
+7
+Mayoria
+2
+18
+4
+1
+40
+'¿Tienes la suficiente edad para votar?'
+4
+1
+15
+'Dime tu edad '
+5
+1
+4
+Edad
+7
+0
+1
+14
+Edad >=Mayoria
+4
+1
+87
+'Lo siento aun no puedes votar, te faltan ' , (Mayoria-Edad), ' años para poder votar '
+13
+4
+1
+48
+'Te felicito ya tienes la edad para poder votar'
+13
+1
