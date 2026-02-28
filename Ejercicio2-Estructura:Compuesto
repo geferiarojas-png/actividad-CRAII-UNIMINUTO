@@ -17,7 +17,7 @@ Mayoria
 4
 1
 40
-'¿Tienes la suficiente edad para votar?'
+'Â¿Tienes la suficiente edad para votar?'
 4
 1
 15
@@ -34,7 +34,7 @@ Edad >=Mayoria
 4
 1
 87
-'Lo siento aun no puedes votar, te faltan ' , (Mayoria-Edad), ' años para poder votar '
+'Lo siento aun no puedes votar, te faltan ' , (Mayoria-Edad), ' aÃ±os para poder votar '
 13
 4
 1
