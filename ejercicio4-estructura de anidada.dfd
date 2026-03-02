@@ -1,0 +1,122 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+"Ingrese estado (1: Laborando, 2: Incapacitado, 3: Jubilado)"
+5
+1
+3
+EST
+7
+0
+1
+5
+EST=1
+7
+0
+1
+5
+EST=2
+7
+1
+1
+5
+EST=3
+4
+1
+26
+"Ingrese Salario Mensual:"
+5
+1
+2
+SM
+6
+1
+5
+SNETO
+9
+SM * 0.92
+4
+1
+39
+"Salario por jubilación (92%): ", SNETO
+13
+4
+1
+24
+"Error: Estado inválido"
+13
+13
+4
+1
+26
+"Ingrese Salario Mensual:"
+5
+1
+2
+SM
+6
+1
+5
+SNETO
+11
+SM * 0.6666
+4
+1
+43
+"Salario por incapacidad (66.66%): ", SNETO
+13
+13
+4
+1
+113
+"Ingrese V Hora. H Normales. H Festivas. Extras Diurnas. Extras Nocturnas. Extras D Festivas y Extras N Festivas"
+5
+1
+32
+VH, NH, HF, HED, HEN, HEDF, HENF
+6
+3
+3
+PNH
+7
+VH * NH
+3
+PHF
+14
+VH * HF * 1.25
+4
+PHED
+14
+VH * HED * 1.5
+6
+3
+4
+PHEN
+15
+VH * HEN * 1.75
+5
+PHEDF
+15
+VH * HEDF * 2.0
+5
+PHENF
+16
+VH * HENF * 2.25
+6
+1
+5
+SNETO
+39
+PNH + PHF + PHED + PHEN + PHEDF + PHENF
+4
+1
+141
+"Cálculos: Norm: ", PNH, " Fest: ", PHF, " E. Diu: ", PHED, " E. Noc: ", PHEN, " E. D. Fes:", PHEDF, " E. N. Fes: ", PHENF, " TOTAL: ", SNETO
+13
+1

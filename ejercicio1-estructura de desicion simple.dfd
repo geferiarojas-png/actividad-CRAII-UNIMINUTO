@@ -1,0 +1,32 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingrese dos valores numericos"
+5
+1
+5
+N1,N2
+7
+0
+1
+7
+N2 != 0
+13
+6
+1
+3
+Div
+5
+N1/N2
+4
+1
+22
+"La division es: ",Div
+13
+1
